@@ -6304,7 +6304,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "During their “draw cards” step,\r\neach player refills their hand to\r\n1 additional card.",
+            "text": "During their “draw cards” step, each player refills their hand to 1 additional card.",
             "locale": {
                 "de": {
                     "name": "Der heulende Abgrund"
@@ -13556,7 +13556,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Deal 2D to each non-Mutant \r\ncreature.",
+            "text": "Play: Deal 2D to each non-Mutant creature.",
             "locale": {
                 "de": {
                     "name": "Dunkle Welle"
@@ -21039,7 +21039,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Give a flank creature three\r\n+1 power counters. Give its neighbor two +1 power counters. Give the second creature’s other neighbor\r\na +1 power counter.﻿﻿",
+            "text": "Play: Give a flank creature three +1 power counters. Give its neighbor two +1 power counters. Give the second creature’s other neighbor a +1 power counter.",
             "locale": {
                 "de": {
                     "name": "Wachstumsschub"
@@ -22097,7 +22097,7 @@
             "amber": 0,
             "armor": null,
             "power": 3,
-            "text": "Skirmish. \r\nAfter a friendly Cat creature enters play, ward it.\r\nFight: Ready a friendly Beast creature.﻿﻿",
+            "text": "Skirmish.\r\nAfter a friendly Cat creature enters play, ward it.\r\nFight: Ready a friendly Beast creature.﻿﻿",
             "locale": {
                 "de": {
                     "name": "Mercy die Miezenkönigin"

@@ -1014,7 +1014,7 @@
             "amber": 0,
             "armor": null,
             "power": 3,
-            "text": "Alpha. (You can only play this card before doing anything else this step.)\rPlay: If you have 3A or more, deal 3D to an enemy creature.",
+            "text": "Alpha. (You can only play this card before doing anything else this step.)\rPlay: If you have 3A or more, deal 3D to an enemy creature.",
             "locale": {
                 "de": {
                     "name": "Gargantes Kämpfer"
@@ -1414,7 +1414,7 @@
             "amber": 0,
             "armor": null,
             "power": 3,
-            "text": "Assault 3. (Before this creature attacks, deal 3D to the attacked enemy.)\rAfter an enemy creature is destroyed by Sköll’s assault damage, give a friendly creature a +1 power counter.",
+            "text": "Assault 3. (Before this creature attacks, deal 3D to the attacked enemy.)\rAfter an enemy creature is destroyed by Sköll’s assault damage, give a friendly creature a +1 power counter.",
             "locale": {
                 "de": {
                     "name": "Sköll"
@@ -1709,7 +1709,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "This creature gains, “At the end of your turn, this creature loses a +1 power counter.”\rPlay: Fully heal this creature and give it a +1 power counter for each damage healed.",
+            "text": "This creature gains, “At the end of your turn, this creature loses a +1 power counter.”\rPlay: Fully heal this creature and give it a +1 power counter for each damage healed.",
             "locale": {
                 "de": {
                     "name": "Cyberriesen-Ausrüstung"
@@ -2061,7 +2061,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Play: Deal 4D to a creature, with 2D splash.",
+            "text": "Play: Deal 4D to a creature, with 2D splash.",
             "locale": {
                 "de": {
                     "name": "Lavaball"
@@ -2111,7 +2111,7 @@
             "amber": 0,
             "armor": null,
             "power": 6,
-            "text": "After an enemy creature is destroyed fighting Mugwump, fully heal Mugwump and give it a +1 power counter.",
+            "text": "After an enemy creature is destroyed fighting Mugwump, fully heal Mugwump and give it a +1 power counter.",
             "locale": {
                 "de": {
                     "name": "Fratzenhauer"
@@ -2263,7 +2263,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Each time an enemy creature is destroyed during your turn, a friendly creature captures 1A.",
+            "text": "Each time an enemy creature is destroyed during your turn, a friendly creature captures 1A.",
             "locale": {
                 "de": {
                     "name": "Schädelhaufen"
@@ -2363,7 +2363,7 @@
             "amber": 0,
             "armor": null,
             "power": 6,
-            "text": "During your turn, each time you discard a Brobnar card from your hand, you may deal 4D to a creature.",
+            "text": "During your turn, each time you discard a Brobnar card from your hand, you may deal 4D to a creature.",
             "locale": {
                 "de": {
                     "name": "Steinewerfender Riese"
@@ -5476,7 +5476,7 @@
             "amber": 0,
             "armor": null,
             "power": 4,
-            "text": "Each time a creature is destroyed, its owner gains 1A.",
+            "text": "Each time a creature is destroyed, its owner gains 1A.",
             "locale": {
                 "de": {
                     "name": "Neffru"
@@ -6414,7 +6414,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Steal 2A if your opponent has 8A or more.",
+            "text": "Play: Steal 2A if your opponent has 8A or more.",
             "locale": {
                 "de": {
                     "name": "Mörderische Forschung"
@@ -8915,7 +8915,7 @@
             "amber": 0,
             "armor": 2,
             "power": 4,
-            "text": "During your “draw cards” step, if Zenzizenzizenzic is in the center of your battleline, refill your hand to 2 additional cards.",
+            "text": "During your “draw cards” step, if Zenzizenzizenzic is in the center of your battleline, refill your hand to 2 additional cards.",
             "locale": {
                 "de": {
                     "name": "Zenzizenzizenzic"
@@ -13413,7 +13413,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Play: Forge a key at +6A current cost. If your opponent has no A, forge a key at +2A current cost instead.",
+            "text": "Play: Forge a key at +6A current cost. If your opponent has no A, forge a key at +2A current cost instead.",
             "locale": {
                 "de": {
                     "name": "Schlüssel der Finsternis"
@@ -13561,7 +13561,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Omni: Sacrifice Longfused Mines. Deal 3D to each enemy creature not on a flank.",
+            "text": "Omni: Sacrifice Longfused Mines. Deal 3D to each enemy creature not on a flank.",
             "locale": {
                 "de": {
                     "name": "Minen mit langer Lunte"
@@ -13809,7 +13809,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Deal 1D to a creature for each A in your pool.",
+            "text": "Play: Deal 1D to a creature for each A in your pool.",
             "locale": {
                 "de": {
                     "name": "Sack voll Münzen"
@@ -15737,7 +15737,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Your opponent’s keys cost +1A for each house represented among friendly creatures (to a maximum of 3).",
+            "text": "Your opponent’s keys cost +1A for each house represented among friendly creatures (to a maximum of 3).",
             "locale": {
                 "de": {
                     "name": "Quadracorder"
@@ -16633,7 +16633,7 @@
             "amber": 0,
             "armor": 2,
             "power": 4,
-            "text": "Taunt. \rEach of Operations Officer Yshi’s neighbors gains, “Fight/Reap: Capture 1A.”",
+            "text": "Taunt. \rEach of Operations Officer Yshi’s neighbors gains, “Fight/Reap: Capture 1A.”",
             "locale": {
                 "de": {
                     "name": "Einsatzoffizier Yshi"
@@ -18121,7 +18121,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Play: For the remainder of the turn, each friendly creature gains, “Reap: Gain 1A.”",
+            "text": "Play: For the remainder of the turn, each friendly creature gains, “Reap: Gain 1A.”",
             "locale": {
                 "de": {
                     "name": "Lied der Wildnis"
@@ -18267,7 +18267,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Choose 3 friendly creatures and 3 enemy creatures. Destroy each other creature.",
+            "text": "Play: Choose 3 friendly creatures and 3 enemy creatures. Destroy each other creature.",
             "locale": {
                 "de": {
                     "name": "Unnatürliche Selektion"
@@ -18315,7 +18315,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Play: Deal 2D to up to 3 undamaged creatures.",
+            "text": "Play: Deal 2D to up to 3 undamaged creatures.",
             "locale": {
                 "de": {
                     "name": "Ahnungslose Beute"
@@ -19306,7 +19306,7 @@
             "amber": 0,
             "armor": null,
             "power": 5,
-            "text": "Assault 3.\rWhile Eldest Bear is in the center of your battleline, it gains, “Before Fight: Gain 2A.”",
+            "text": "Assault 3.\rWhile Eldest Bear is in the center of your battleline, it gains, “Before Fight: Gain 2A.”",
             "locale": {
                 "de": {
                     "name": "Älteste Bärin"
@@ -19456,7 +19456,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Omega. (After you play this card, end this step.)\rPlay: Return a card from your discard pile to your hand.",
+            "text": "Omega. (After you play this card, end this step.)\rPlay: Return a card from your discard pile to your hand.",
             "locale": {
                 "de": {
                     "name": "Gravid-Zyklus"

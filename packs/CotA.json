@@ -1786,7 +1786,7 @@
             "amber": 0,
             "armor": 0,
             "power": 12,
-            "text": "Kelifi Dragon cannot be played unless you have 7<A> or more.\u000bFight/Reap: Gain 1<A>. Deal 5<D> to a creature.",
+            "text": "Kelifi Dragon cannot be played unless you have 7<A> or more.\rFight/Reap: Gain 1<A>. Deal 5<D> to a creature.",
             "locale": {
                 "de": {
                     "name": "Kelifi-Drache"
@@ -1988,7 +1988,7 @@
             "amber": 0,
             "armor": 0,
             "power": 2,
-            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\u000bReap: For the remainder of the turn, gain 1<A> each time an enemy creature is destroyed.",
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\rReap: For the remainder of the turn, gain 1<A> each time an enemy creature is destroyed.",
             "locale": {
                 "de": {
                     "name": "Plündernder Goblin"
@@ -2090,7 +2090,7 @@
             "amber": 0,
             "armor": 0,
             "power": 2,
-            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\u000bDeal 1<D> to each enemy creature after it enters play.",
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\rDeal 1<D> to each enemy creature after it enters play.",
             "locale": {
                 "de": {
                     "name": "Pingel die Nervensäge"
@@ -2291,7 +2291,7 @@
             "amber": 0,
             "armor": 0,
             "power": 7,
-            "text": "Tireless Crocag cannot reap.\u000bYou may use Tireless Crocag as if it belonged to the active house.\u000bIf your opponent has no creatures in play, destroy Tireless Crocag.",
+            "text": "Tireless Crocag cannot reap.\rYou may use Tireless Crocag as if it belonged to the active house.\rIf your opponent has no creatures in play, destroy Tireless Crocag.",
             "locale": {
                 "de": {
                     "name": "Crocag der Unermüdliche"
@@ -2535,7 +2535,7 @@
             "amber": 1,
             "armor": null,
             "power": 0,
-            "text": "This creature gains taunt.\u000bPlay: Fully heal this creature.",
+            "text": "This creature gains taunt.\rPlay: Fully heal this creature.",
             "locale": {
                 "de": {
                     "name": "Meister der Mutterwitze"
@@ -3999,7 +3999,7 @@
             "amber": 0,
             "armor": 0,
             "power": 2,
-            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\u000bPlay: If your opponent has 7<A> or more, capture all of it.",
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\rPlay: If your opponent has 7<A> or more, capture all of it.",
             "locale": {
                 "de": {
                     "name": "Tranfunzel"
@@ -4551,7 +4551,7 @@
             "amber": 2,
             "armor": 0,
             "power": 9,
-            "text": "Taunt. (This creature’s neighbors cannot be attacked unless they have taunt.)\u000bWhile Pitlord is in play you must choose Dis as your active house.",
+            "text": "Taunt. (This creature’s neighbors cannot be attacked unless they have taunt.)\rWhile Pitlord is in play you must choose Dis as your active house.",
             "locale": {
                 "de": {
                     "name": "Grubenfürst"
@@ -5054,7 +5054,7 @@
             "amber": 0,
             "armor": 0,
             "power": 1,
-            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\u000bEach time a creature is destroyed, its opponent gains 1<A>.",
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\rEach time a creature is destroyed, its opponent gains 1<A>.",
             "locale": {
                 "de": {
                     "name": "Tolas"
@@ -5106,7 +5106,7 @@
             "amber": 0,
             "armor": 0,
             "power": 7,
-            "text": "You must lose 3<A> in order to play Truebaru.  \u000bTaunt. (This creature’s neighbors cannot be attacked unless they have taunt.)\u000bDestroyed: Gain 5<A>. ",
+            "text": "You must lose 3<A> in order to play Truebaru.\rTaunt. (This creature’s neighbors cannot be attacked unless they have taunt.)\rDestroyed: Gain 5<A>. ",
             "locale": {
                 "de": {
                     "name": "Baruwahr"
@@ -5634,7 +5634,7 @@
             "amber": 0,
             "armor": null,
             "power": 0,
-            "text": "Play: For the remainder of the turn, each time you play another card, draw a card.",
+            "text": "Play: For the remainder of the turn, each time you play another card, draw a card. Purge Library Access.",
             "locale": {
                 "de": {
                     "name": "Bibliothekszugang"
@@ -6414,7 +6414,7 @@
             "amber": 0,
             "armor": null,
             "power": 0,
-            "text": "You may spend <A> on Pocket Universe when forging keys.\u000bAction: Move 1<A> from your pool to Pocket Universe.",
+            "text": "You may spend <A> on Pocket Universe when forging keys.\rAction: Move 1<A> from your pool to Pocket Universe.",
             "locale": {
                 "de": {
                     "name": "Taschenuniversum"
@@ -6666,7 +6666,7 @@
             "amber": 0,
             "armor": 0,
             "power": 2,
-            "text": "Skirmish. (When you use this creature to fight, it is dealt no damage in return.)\u000bFight: Steal 1<A>.",
+            "text": "Skirmish. (When you use this creature to fight, it is dealt no damage in return.)\rFight: Steal 1<A>.",
             "locale": {
                 "de": {
                     "name": "Fledermausdrohne"
@@ -6768,7 +6768,7 @@
             "amber": 0,
             "armor": 0,
             "power": 3,
-            "text": "Play: Capture 1<A>.\u000bDestroyed: Put Dextre on top of your deck.",
+            "text": "Play: Capture 1<A>.\rDestroyed: Put Dextre on top of your deck.",
             "locale": {
                 "de": {
                     "name": "Dexter"
@@ -7075,7 +7075,7 @@
             "amber": 0,
             "armor": 0,
             "power": 3,
-            "text": "Skirmish. (When you use this creature to fight, it is dealt no damage in return.)\u000bFight: Draw a card.",
+            "text": "Skirmish. (When you use this creature to fight, it is dealt no damage in return.)\rFight: Draw a card.",
             "locale": {
                 "de": {
                     "name": "Quixo der „Abenteurer“"
@@ -7281,7 +7281,7 @@
             "amber": 0,
             "armor": 0,
             "power": 2,
-            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\u000bFight/Reap: Heal 3 damage from a Mars creature or stun a Mars creature. ",
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\rFight/Reap: Heal 3 damage from a Mars creature or stun a Mars creature. ",
             "locale": {
                 "de": {
                     "name": "Ozmo der Marsianologe"
@@ -7533,7 +7533,7 @@
             "amber": 1,
             "armor": 0,
             "power": 2,
-            "text": "Play: Draw 2 cards. \u000bAction: Shuffle Timetraveller into your deck.",
+            "text": "Play: Draw 2 cards.\rAction: Shuffle Timetraveller into your deck.",
             "locale": {
                 "de": {
                     "name": "Zeitreisender"
@@ -7637,7 +7637,7 @@
             "amber": 0,
             "armor": 0,
             "power": 2,
-            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\u000bReap: Choose a house. Reveal the top card of your deck. If it is of that house, archive it and gain 1<A>. Otherwise, discard it.",
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\rReap: Choose a house. Reveal the top card of your deck. If it is of that house, archive it and gain 1<A>. Otherwise, discard it.",
             "locale": {
                 "de": {
                     "name": "Vespilon-Theoretiker"
@@ -7736,7 +7736,7 @@
             "amber": 0,
             "armor": null,
             "power": 0,
-            "text": "This creature belongs to all houses.\u000bPlay: Stun and exhaust this creature.",
+            "text": "This creature belongs to all houses.\rPlay: Stun and exhaust this creature.",
             "locale": {
                 "de": {
                     "name": "Experimentelle Therapie"
@@ -9395,7 +9395,7 @@
             "amber": 0,
             "armor": 0,
             "power": 11,
-            "text": "Taunt. (This creature’s neighbors cannot be attacked unless they have taunt.)\u000bChuff Ape enters play stunned.\u000bFight/Reap: You may sacrifice another friendly creature. If you do, fully heal Chuff Ape.",
+            "text": "Taunt. (This creature’s neighbors cannot be attacked unless they have taunt.)\rChuff Ape enters play stunned.\rFight/Reap: You may sacrifice another friendly creature. If you do, fully heal Chuff Ape.",
             "locale": {
                 "de": {
                     "name": "Dampfaffe"
@@ -9445,7 +9445,7 @@
             "amber": 0,
             "armor": 0,
             "power": 7,
-            "text": "Ether Spider deals no damage when fighting.\u000bEach <A> that would be added to your opponent’s pool is captured by Ether Spider instead.",
+            "text": "Ether Spider deals no damage when fighting.\rEach <A> that would be added to your opponent’s pool is captured by Ether Spider instead.",
             "locale": {
                 "de": {
                     "name": "Ätherspinne"
@@ -9495,7 +9495,7 @@
             "amber": 0,
             "armor": 1,
             "power": 4,
-            "text": "Your opponent’s keys cost +1<A>.\u000bFight/Reap: Capture 1<A>.",
+            "text": "Your opponent’s keys cost +1<A>.\rFight/Reap: Capture 1<A>.",
             "locale": {
                 "de": {
                     "name": "Störgreifer"
@@ -9545,7 +9545,7 @@
             "amber": 0,
             "armor": 0,
             "power": 10,
-            "text": "You cannot play creatures.  \u000bAfter an enemy creature is destroyed fighting Grommid, your opponent loses 1<A>.",
+            "text": "You cannot play creatures.\rAfter an enemy creature is destroyed fighting Grommid, your opponent loses 1<A>.",
             "locale": {
                 "de": {
                     "name": "Grommid"
@@ -9598,7 +9598,7 @@
             "amber": 0,
             "armor": 0,
             "power": 2,
-            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\u000bFight/Reap: Ready a non-Agent Mars creature.",
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\rFight/Reap: Ready a non-Agent Mars creature.",
             "locale": {
                 "de": {
                     "name": "„John Smyth“"
@@ -9651,7 +9651,7 @@
             "amber": 0,
             "armor": 0,
             "power": 2,
-            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\u000bAction: Choose an enemy creature. It captures 1<A> from its own side.",
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\rAction: Choose an enemy creature. It captures 1<A> from its own side.",
             "locale": {
                 "de": {
                     "name": "Gedankenmanipulator"
@@ -9704,7 +9704,7 @@
             "amber": 0,
             "armor": 0,
             "power": 1,
-            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\u000bAction: Your opponent loses 1<A> for each other friendly Mars creature.",
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\rAction: Your opponent loses 1<A> for each other friendly Mars creature.",
             "locale": {
                 "de": {
                     "name": "Phylyx der Vernichter"
@@ -9909,7 +9909,7 @@
             "amber": 0,
             "armor": 0,
             "power": 2,
-            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\u000bReap: Put an enemy creature into your archives. If that creature leaves your archives, it is put into its owner’s hand instead.",
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\rReap: Put an enemy creature into your archives. If that creature leaves your archives, it is put into its owner’s hand instead.",
             "locale": {
                 "de": {
                     "name": "Uxlyx der Zoodirektor"
@@ -10011,7 +10011,7 @@
             "amber": 0,
             "armor": 0,
             "power": 2,
-            "text": "Yxili Marauder gets +1 power for each <A> on it.\u000bPlay: Capture 1<A> for each friendly ready Mars creature.",
+            "text": "Yxili Marauder gets +1 power for each <A> on it.\rPlay: Capture 1<A> for each friendly ready Mars creature.",
             "locale": {
                 "de": {
                     "name": "Yxili-Marodeur"
@@ -10114,7 +10114,7 @@
             "amber": 0,
             "armor": 1,
             "power": 9,
-            "text": "Taunt. (This creature’s neighbors cannot be attacked unless they have taunt.)\u000bYxilx Dominator enters play stunned. ",
+            "text": "Taunt. (This creature’s neighbors cannot be attacked unless they have taunt.)\rYxilx Dominator enters play stunned. ",
             "locale": {
                 "de": {
                     "name": "Yxilx-Beherrscher"
@@ -10164,7 +10164,7 @@
             "amber": 0,
             "armor": 0,
             "power": 7,
-            "text": "Zorg enters play stunned. \u000bBefore Fight: Stun the creature Zorg fights and each of that creature’s neighbors.",
+            "text": "Zorg enters play stunned.\rBefore Fight: Stun the creature Zorg fights and each of that creature’s neighbors.",
             "locale": {
                 "de": {
                     "name": "Zorg"
@@ -10263,7 +10263,7 @@
             "amber": 1,
             "armor": null,
             "power": 0,
-            "text": "This creature gains, “Destroyed: You may put this creature into its owner's archives.” ",
+            "text": "This creature gains, “Destroyed: Put this creature into its owner's archives.” ",
             "locale": {
                 "de": {
                     "name": "Back-up der Biomatrix"
@@ -11369,7 +11369,7 @@
             "amber": 0,
             "armor": null,
             "power": 0,
-            "text": "Play: Archive each friendly Knight creature in play.\u000bOmni: If you have played 7 or more Sanctum cards this turn, sacrifice Epic Quest and forge a key at no cost.",
+            "text": "Play: Archive each friendly Knight creature in play.\rOmni: If you have played 7 or more Sanctum cards this turn, sacrifice Epic Quest and forge a key at no cost.",
             "locale": {
                 "de": {
                     "name": "Epische Abenteuerfahrt"
@@ -12027,7 +12027,7 @@
             "amber": 0,
             "armor": 0,
             "power": 3,
-            "text": "Each friendly creature gets +1 armor. \u000bReap: Heal 2 damage from a creature.",
+            "text": "Each friendly creature gets +1 armor.\rReap: Heal 2 damage from a creature.",
             "locale": {
                 "de": {
                     "name": "Grauer Mönch"
@@ -12383,7 +12383,7 @@
             "amber": 0,
             "armor": 2,
             "power": 5,
-            "text": "Play: Stun a creature. \u000bAction: Return Lady Maxena to its owner’s hand.",
+            "text": "Play: Stun a creature.\rAction: Return Lady Maxena to its owner’s hand.",
             "locale": {
                 "de": {
                     "name": "Lady Maxena"
@@ -12639,7 +12639,7 @@
             "amber": 0,
             "armor": 1,
             "power": 6,
-            "text": "Taunt. (This creature’s neighbors cannot be attacked unless they have taunt.)\u000bFight/Reap: Swap Sanctum Guardian with another friendly creature in your battleline.",
+            "text": "Taunt. (This creature’s neighbors cannot be attacked unless they have taunt.)\rFight/Reap: Swap Sanctum Guardian with another friendly creature in your battleline.",
             "locale": {
                 "de": {
                     "name": "Wächter des Sanctums"
@@ -14201,7 +14201,7 @@
             "amber": 1,
             "armor": null,
             "power": 0,
-            "text": "Play: Put a card from your hand facedown beneath Masterplan.\u000bOmni: Play the card beneath Masterplan. Sacrifice Masterplan.",
+            "text": "Play: Put a card from your hand facedown beneath Masterplan.\rOmni: Play the card beneath Masterplan. Sacrifice Masterplan.",
             "locale": {
                 "de": {
                     "name": "Masterplan"
@@ -14251,7 +14251,7 @@
             "amber": 1,
             "armor": null,
             "power": 0,
-            "text": "You may spend <A> on Safe Place when forging keys.\u000bAction: Move 1<A> from your pool to Safe Place.",
+            "text": "You may spend <A> on Safe Place when forging keys.\rAction: Move 1<A> from your pool to Safe Place.",
             "locale": {
                 "de": {
                     "name": "Sicheres Versteck"
@@ -14551,7 +14551,7 @@
             "amber": 1,
             "armor": null,
             "power": 0,
-            "text": "Skip your “forge a key” step.\u000bYou get all <A> spent by your opponent when forging keys.\u000bAction: Sacrifice The Sting.",
+            "text": "Skip your “forge a key” step.\rYou get all <A> spent by your opponent when forging keys.\rAction: Sacrifice The Sting.",
             "locale": {
                 "de": {
                     "name": "Der Stachel"
@@ -14655,7 +14655,7 @@
             "amber": 0,
             "armor": 0,
             "power": 2,
-            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\u000bReap: Destroy a flank creature.",
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\rReap: Destroy a flank creature.",
             "locale": {
                 "de": {
                     "name": "Scharfauge"
@@ -14709,7 +14709,7 @@
             "amber": 0,
             "armor": 0,
             "power": 1,
-            "text": "Elusive. Skirmish.\u000bEach time you play an artifact, steal 1<A>.",
+            "text": "Elusive. Skirmish.\rEach time you play an artifact, steal 1<A>.",
             "locale": {
                 "de": {
                     "name": "Carlo Phantom"
@@ -14762,7 +14762,7 @@
             "amber": 0,
             "armor": 0,
             "power": 1,
-            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\u000bOmni: Choose a friendly creature. You may use that creature this turn.",
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\rOmni: Choose a friendly creature. You may use that creature this turn.",
             "locale": {
                 "de": {
                     "name": "Deipno-Meisterspion"
@@ -14815,7 +14815,7 @@
             "amber": 0,
             "armor": 0,
             "power": 3,
-            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\u000bReap: Return an Urchin from play or from your discard pile to your hand.",
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\rReap: Return an Urchin from play or from your discard pile to your hand.",
             "locale": {
                 "de": {
                     "name": "Faygin"
@@ -14868,7 +14868,7 @@
             "amber": 0,
             "armor": 0,
             "power": 3,
-            "text": "Skirmish. (When you use this creature to fight, it is dealt no damage in return.)\u000bPoison. (Any damage dealt by this creature’s power during a fight destroys the damaged creature.)",
+            "text": "Skirmish. (When you use this creature to fight, it is dealt no damage in return.)\rPoison. (Any damage dealt by this creature’s power during a fight destroys the damaged creature.)",
             "locale": {
                 "de": {
                     "name": "Macisviper"
@@ -14921,7 +14921,7 @@
             "amber": 0,
             "armor": 0,
             "power": 3,
-            "text": "Elusive.\u000bYou may use Mack the Knife as if it belonged to the active house.\u000bAction: Deal 1<D> to a creature. If this damage destroys that creature, gain 1<A>.",
+            "text": "Elusive.\rYou may use Mack the Knife as if it belonged to the active house.\rAction: Deal 1<D> to a creature. If this damage destroys that creature, gain 1<A>.",
             "locale": {
                 "de": {
                     "name": "Mackie Messer"
@@ -14974,7 +14974,7 @@
             "amber": 0,
             "armor": 0,
             "power": 4,
-            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\u000bPlay: Steal 2<A>.\u000bLeaves Play: Your opponent steals 2<A>.",
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\rPlay: Steal 2<A>.\rLeaves Play: Your opponent steals 2<A>.",
             "locale": {
                 "de": {
                     "name": "Magda die Ratte"
@@ -15028,7 +15028,7 @@
             "amber": 0,
             "armor": 0,
             "power": 1,
-            "text": "Skirmish. Poison.\u000bFight: Steal 1<A>.",
+            "text": "Skirmish. Poison.\rFight: Steal 1<A>.",
             "locale": {
                 "de": {
                     "name": "Mondfaucher"
@@ -15081,7 +15081,7 @@
             "amber": 0,
             "armor": 0,
             "power": 3,
-            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\u000bReap: Use an opponent’s artifact as if it were yours.",
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\rReap: Use an opponent’s artifact as if it were yours.",
             "locale": {
                 "de": {
                     "name": "Nexus"
@@ -15134,7 +15134,7 @@
             "amber": 0,
             "armor": 0,
             "power": 2,
-            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\u000bAction: Steal 1<A>.",
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\rAction: Steal 1<A>.",
             "locale": {
                 "de": {
                     "name": "Noddy der Dieb"
@@ -15187,7 +15187,7 @@
             "amber": 0,
             "armor": 0,
             "power": 3,
-            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\u000bPlay: Capture 3<A>.",
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\rPlay: Capture 3<A>.",
             "locale": {
                 "de": {
                     "name": "Alter Bruno"
@@ -15339,7 +15339,7 @@
             "amber": 0,
             "armor": 0,
             "power": 9,
-            "text": "Shadow Self deals no damage when fighting.  \u000bDamage dealt to non-Specter neighbors is dealt to Shadow Self instead.",
+            "text": "Shadow Self deals no damage when fighting.\rDamage dealt to non-Specter neighbors is dealt to Shadow Self instead.",
             "locale": {
                 "de": {
                     "name": "Schatten-Ich"
@@ -15443,7 +15443,7 @@
             "amber": 0,
             "armor": 0,
             "power": 1,
-            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\u000bReap: If you forged a key this turn, take control of an enemy flank creature.",
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\rReap: If you forged a key this turn, take control of an enemy flank creature.",
             "locale": {
                 "de": {
                     "name": "Lächelnde Ruth"
@@ -15547,7 +15547,7 @@
             "amber": 0,
             "armor": 0,
             "power": 2,
-            "text": "Skirmish. (When you use this creature to fight, it is dealt no damage in return.)\u000bFight: Steal 1<A>.",
+            "text": "Skirmish. (When you use this creature to fight, it is dealt no damage in return.)\rFight: Steal 1<A>.",
             "locale": {
                 "de": {
                     "name": "Umbra"
@@ -15600,7 +15600,7 @@
             "amber": 0,
             "armor": 0,
             "power": 1,
-            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\u000bPlay: Steal 1<A>.",
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\rPlay: Steal 1<A>.",
             "locale": {
                 "de": {
                     "name": "Straßenkind"
@@ -17104,7 +17104,7 @@
             "amber": 0,
             "armor": 0,
             "power": 7,
-            "text": "Bigtwig can only fight stunned creatures. \u000bReap: Stun and exhaust a creature.",
+            "text": "Bigtwig can only fight stunned creatures.\rReap: Stun and exhaust a creature.",
             "locale": {
                 "de": {
                     "name": "Großholz"
@@ -17311,7 +17311,7 @@
             "amber": 0,
             "armor": 0,
             "power": 2,
-            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\u000bReap: Gain 1<A>.",
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\rReap: Gain 1<A>.",
             "locale": {
                 "de": {
                     "name": "Tautropfenfee"
@@ -17511,7 +17511,7 @@
             "amber": 0,
             "armor": 0,
             "power": 6,
-            "text": "You cannot use this card unless you have discarded an Untamed card from your hand this turn.\u000bAction: Gain 3<A>.",
+            "text": "You cannot use this card unless you have discarded an Untamed card from your hand this turn.\rAction: Gain 3<A>.",
             "locale": {
                 "de": {
                     "name": "Riesenfaultier"
@@ -17613,7 +17613,7 @@
             "amber": 0,
             "armor": 0,
             "power": 1,
-            "text": "Poison. (Any damage dealt by this creature’s power during a fight destroys the damaged creature.)\u000bPlay/Reap: Stun a creature.",
+            "text": "Poison. (Any damage dealt by this creature’s power during a fight destroys the damaged creature.)\rPlay/Reap: Stun a creature.",
             "locale": {
                 "de": {
                     "name": "Inka die Spinne"
@@ -17667,7 +17667,7 @@
             "amber": 0,
             "armor": 0,
             "power": 3,
-            "text": "Elusive. Skirmish.\u000bReap: Deal 2<D> to a creature.",
+            "text": "Elusive. Skirmish.\rReap: Deal 2<D> to a creature.",
             "locale": {
                 "de": {
                     "name": "Kindrith Weitschuss"
@@ -17771,7 +17771,7 @@
             "amber": 0,
             "armor": 0,
             "power": 6,
-            "text": "Skirmish. (When you use this creature to fight, it is dealt no damage in return.) \u000bPlay: Deal 2<D> to an enemy creature.",
+            "text": "Skirmish. (When you use this creature to fight, it is dealt no damage in return.)\rPlay: Deal 2<D> to an enemy creature.",
             "locale": {
                 "de": {
                     "name": "Lupo der Vernarbte"
@@ -18024,7 +18024,7 @@
             "amber": 0,
             "armor": 0,
             "power": 6,
-            "text": "Each other friendly Beast creature gets +1 power.\u000bEach other friendly Niffle creature gets +1 power.",
+            "text": "Each other friendly Beast creature gets +1 power.\rEach other friendly Niffle creature gets +1 power.",
             "locale": {
                 "de": {
                     "name": "Niffelkönigin"
