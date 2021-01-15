@@ -19,6 +19,16 @@
                 "packs/CotA.json",
                 "CotA"
             ]
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Import DT spoilers",
+            "program": "${workspaceFolder}/scripts/import-aa.js",
+            "args": [
+                "packs/DT.json",
+                "DT"
+            ]
         }
     ]
 }
